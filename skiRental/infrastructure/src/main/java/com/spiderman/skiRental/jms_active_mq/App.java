@@ -1,4 +1,4 @@
-package com.spiderman.skiRental;
+package com.spiderman.skiRental.jms_active_mq;
 
 /**
  * Hello world!
